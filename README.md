@@ -16,10 +16,6 @@ I write about scalable ML, AI systems, and things I find interesting at **[harry
 
 - Contributor to [vercel-labs/just-bash](https://github.com/vercel-labs/just-bash)
 
-## Stack
-
-`Python` `Azure Container Apps` `PostgreSQL` `Redis` `Qdrant` `Databricks` `KEDA`
-
 ---
 
 *Always happy to talk distributed systems, agent infrastructure, or ML security.*
