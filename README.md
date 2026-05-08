@@ -14,7 +14,7 @@ I write about scalable ML, AI systems, and things I find interesting at **[harry
 
 ## Open Source
 
-- Contributor to [vercel-labs/just-bash](https://github.com/vercel-labs/just-bash)
+- Contributor to [vercel-labs/just-bash](https://github.com/vercel-labs/just-bash) (optimizing grep to be 100x faster)
 
 ---
 
