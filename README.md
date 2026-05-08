@@ -18,7 +18,7 @@ I write about scalable ML, AI systems, and things I find interesting at **[harry
 
 ---
 
-*Always happy to talk distributed systems, agent infrastructure, or ML security.*
+*Always happy to talk about harness engineering, distributed systems, agent infrastructure, ML security and Deep neural nets.*
 
 <!--
 **Hazzng/Hazzng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
