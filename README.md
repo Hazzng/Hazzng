@@ -9,7 +9,7 @@ I write about scalable ML, AI systems, and things I find interesting at **[harry
 ## What I'm working on
 
 - Designing production multi-agent architectures on autoscaling, fault tolerance, observability
-- RAG infrastructure with Qdrant, PostgreSQL, and custom ingestion pipelines
+- RAG infrastructure with distributed system
 - Writing about distributed systems patterns applied to AI agent infrastructure
 
 ## Open Source
