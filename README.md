@@ -2,7 +2,7 @@
 
 I'm an AI Engineer at [insightfactory.ai](https://insightfactory.ai), where I build and scale multi-agent systems. I studied Computer Science at the University of Adelaide, and previously worked as a Machine Learning Engineer at the [Australian Institute of Machine Learning](https://www.adelaide.edu.au/aiml/), where my research focused on adversarial and backdoor attacks against state-of-the-art object detectors, which got published at top-tier security conferences.
 
-I write about scalable ML, AI systems, and things I find interesting at **[harryng.dev](https://harryng.dev)**.
+I write about scalable ML, AI systems, databases and things I find interesting at **[harryng.dev](https://harryng.dev)**.
 
 ---
 
