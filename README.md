@@ -9,7 +9,7 @@ I write about scalable ML, AI systems, databases and things I find interesting a
 ## What I'm working on
 
 - Designing production multi-agent architectures on autoscaling, fault tolerance, observability
-- RAG infrastructure with distributed system
+- Long-running cloud agents
 - Writing about distributed systems patterns applied to AI agent infrastructure
 
 ## Open Source
